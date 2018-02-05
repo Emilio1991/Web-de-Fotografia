@@ -1,0 +1,38 @@
+body{
+  font-family: 'Dancing Script', cursive;
+  background-color: #02010a;
+}
+
+#cabecera{
+  background-color: #5b7989;
+  text-align: left;
+  color: white;
+  text-shadow: 2px 0px #02010a;
+  border-radius: 10px 10px 0px 0px;
+  padding: 5px 10px 10px;
+}
+
+h1{
+  margin: 0;
+  float: left;
+}
+
+#menu ul{
+   list-style-type: none;
+   text-align: right;
+}
+
+#menu li{
+   display: inline;
+   margin: 0 10px 0 0;
+   text-shadow: none;
+}
+
+#menu li a {
+   padding: 2px 7px 2px 7px;
+   color: inherit;
+}
+
+.activo{
+  text-decoration: none;
+}
